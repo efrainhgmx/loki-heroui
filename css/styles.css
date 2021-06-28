@@ -17,6 +17,10 @@ body {
     color: white;
 }
 
+img {
+    width: 100%;
+}
+
 a {
     display: inline-block;
     text-decoration: none;
@@ -48,4 +52,8 @@ main {
 .hero-content {
     width: 90%;
     margin: 25px auto;
+}
+
+.logo {
+    width: 78px;
 }
