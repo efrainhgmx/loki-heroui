@@ -14,6 +14,7 @@ figure {
 
 body {
     font-family: 'Roboto', sans-serif;
+    color: white;
 }
 
 a {
@@ -25,4 +26,14 @@ a {
     padding-block: 16px;
     width: 100%;
     border-radius: 50px;
+}
+
+main {
+    background-color: var(--bg-color);
+}
+
+.hero-content {
+    width: 90%;
+    min-height: 50vh;
+    margin: 0 auto;
 }
