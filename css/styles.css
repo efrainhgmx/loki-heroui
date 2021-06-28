@@ -15,3 +15,13 @@ figure {
 body {
     font-family: 'Roboto', sans-serif;
 }
+
+a {
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    background-color: var(--button-color);
+    padding: 16px;
+    width: 100%;
+    border-radius: 50px;
+}
