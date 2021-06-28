@@ -19,9 +19,10 @@ body {
 a {
     display: inline-block;
     text-decoration: none;
+    text-align: center;
     color: white;
     background-color: var(--button-color);
-    padding: 16px;
+    padding-block: 16px;
     width: 100%;
     border-radius: 50px;
 }
