@@ -6,3 +6,12 @@ html {
     --bg-color: #202020;
     --button-color: #1B90FC;
 }
+
+body,
+figure {
+    margin: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
