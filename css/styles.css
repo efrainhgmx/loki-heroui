@@ -40,9 +40,12 @@ main {
 .hero-image {
     width: 100%;
     background-image: url(../assets/img/hero-loki.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .hero-content {
     width: 90%;
-    margin: 0 auto;
+    margin: 25px auto;
 }
