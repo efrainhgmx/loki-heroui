@@ -21,6 +21,20 @@ img {
     width: 100%;
 }
 
+h2 {
+    font-size: 2.4rem;
+}
+
+h2,
+a {
+    font-weight: 700;
+}
+
+a,
+p {
+    font-size: 1.4rem;
+}
+
 a {
     display: inline-block;
     text-decoration: none;
