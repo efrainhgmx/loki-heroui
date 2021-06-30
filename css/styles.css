@@ -54,8 +54,8 @@ main::after {
     content: "";
     position: relative;
     display: block;
-    border-bottom: 20px solid #000;
-    border-left: 40px solid transparent;
+    border-bottom: 20px solid white;
+    border-left: 320px solid transparent;
     width: 0;
     height: 0;
     left: 0;
