@@ -50,12 +50,8 @@ main {
     background-color: var(--bg-color);
 }
 
-.hero-image,
-.hero-content {
-    min-height: 50vh;
-}
-
 .hero-image {
+    min-height: 50vh;
     width: 100%;
     background-image: url(../assets/img/hero-loki.png);
     background-position: center;
@@ -64,6 +60,7 @@ main {
 }
 
 .hero-content {
+    min-height: 70vh;
     width: 90%;
     margin: 25px auto;
 }
