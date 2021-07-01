@@ -79,3 +79,9 @@ main::after {
 .logo {
     width: 78px;
 }
+
+@media (min-width: 360px) {
+    main::after {
+        border-left: 360px solid transparent;
+    }
+}
