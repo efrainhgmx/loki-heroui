@@ -10,3 +10,8 @@ p {
 .logo {
     width: 193px;
 }
+
+.hero-content {
+    min-height: 40vh;
+    width: 80%;
+}
