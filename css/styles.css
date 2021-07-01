@@ -85,3 +85,9 @@ main::after {
         border-left: 360px solid transparent;
     }
 }
+
+@media (min-width: 375px) {
+    main::after {
+        border-left: 375px solid transparent;
+    }
+}
