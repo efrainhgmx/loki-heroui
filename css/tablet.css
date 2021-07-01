@@ -7,6 +7,10 @@ p {
     font-size: 1.6rem;
 }
 
+a {
+    margin-block-start: 30px;
+}
+
 .logo {
     width: 193px;
 }
