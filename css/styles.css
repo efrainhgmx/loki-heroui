@@ -97,3 +97,9 @@ main::after {
         border-left: 411px solid transparent;
     }
 }
+
+@media (min-width: 425px) {
+    main::after {
+        border-left: 475px solid transparent;
+    }
+}
