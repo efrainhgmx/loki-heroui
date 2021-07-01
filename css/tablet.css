@@ -11,6 +11,10 @@ a {
     margin-block-start: 30px;
 }
 
+main::after {
+    border-left: 768px solid transparent;
+}
+
 .logo {
     width: 193px;
 }
