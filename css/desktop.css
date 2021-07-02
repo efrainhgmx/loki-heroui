@@ -29,6 +29,10 @@ main::after {
     width: 435px;
 }
 
+a {
+    width: 150px;
+}
+
 @media (min-width: 1070px) {
     main::after {
         border-left: 1070px solid transparent;
