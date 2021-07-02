@@ -50,5 +50,6 @@ a {
         border-left-width: 100vw;
         border-left-style: solid;
         border-left-color: transparent;
+        border-bottom-width: 128px;
     }
 }
