@@ -10,6 +10,13 @@ main::after {
     border-left: 1050px solid transparent
 }
 
+.hero-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
 @media (min-width: 1070px) {
     main::after {
         border-left: 1070px solid transparent;
