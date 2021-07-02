@@ -17,6 +17,10 @@ main::after {
     align-items: center;
 }
 
+.logo {
+    align-self: flex-start;
+}
+
 @media (min-width: 1070px) {
     main::after {
         border-left: 1070px solid transparent;
