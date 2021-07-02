@@ -1,5 +1,9 @@
 main {
     display: flex;
     flex-direction: row-reverse;
-    height: 90vh;
+    height: 100vh;
+}
+
+main::after {
+    position: absolute;
 }
