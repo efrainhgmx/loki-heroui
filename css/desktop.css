@@ -69,3 +69,9 @@ a {
         border-bottom-width: 128px;
     }
 }
+
+@media (min-width: 1950px) {
+    .hero-clip {
+        width: 43vw;
+    }
+}
