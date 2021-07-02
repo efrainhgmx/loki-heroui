@@ -100,6 +100,6 @@ main::after {
 
 @media (min-width: 425px) {
     main::after {
-        border-left: 475px solid transparent;
+        border-left: 425px solid transparent;
     }
 }
