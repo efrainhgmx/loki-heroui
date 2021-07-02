@@ -15,3 +15,9 @@ main::after {
         border-left: 1070px solid transparent;
     }
 }
+
+@media (min-width: 1080px) {
+    main::after {
+        border-left: 1080px solid transparent;
+    }
+}
