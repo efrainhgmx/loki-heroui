@@ -21,3 +21,11 @@ main::after {
         border-left: 1080px solid transparent;
     }
 }
+
+@media (min-width: 1280px) {
+    main::after {
+        border-left-width: 100vw;
+        border-left-style: solid;
+        border-left-color: transparent;
+    }
+}
