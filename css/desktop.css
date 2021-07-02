@@ -9,3 +9,9 @@ main::after {
     bottom: 0;
     border-left: 1050px solid transparent
 }
+
+@media (min-width: 1070px) {
+    main::after {
+        border-left: 1070px solid transparent;
+    }
+}
