@@ -64,7 +64,7 @@ main::after {
 .hero-image {
     min-height: 50vh;
     width: 100%;
-    background-image: url(../assets/img/hero-loki.png);
+    background-image: url(../assets/img/loki.gif);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
