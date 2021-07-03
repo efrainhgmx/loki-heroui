@@ -90,11 +90,19 @@ main::after {
     main::after {
         border-left: 375px solid transparent;
     }
+
+    .hero-image {
+        background-position: 43% 20%;
+    }
 }
 
 @media (min-width: 411px) {
     main::after {
         border-left: 411px solid transparent;
+    }
+
+    .hero-image {
+        background-position: center;
     }
 }
 
