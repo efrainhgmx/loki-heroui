@@ -71,7 +71,7 @@ main::after {
 }
 
 .hero-content {
-    min-height: 70vh;
+    min-height: 50vh;
     width: 90%;
     margin: 25px auto;
 }
