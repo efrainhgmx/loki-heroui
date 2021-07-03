@@ -33,7 +33,7 @@ main::after {
 .hero-clip {
     display: flex;
     align-items: center;
-    width: 42vw;
+    width: 50vw;
     clip-path: polygon(0% 0%, calc(100% - 100px) 0%, 100% 100%, 0 100%);
     background: #202020;
     position: relative;
