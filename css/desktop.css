@@ -11,7 +11,11 @@ main {
 main::after {
     position: absolute;
     bottom: 0;
-    border-left: 1050px solid transparent
+    border-left-width: 100vw;
+    border-left-style: solid;
+    border-left-color: transparent;
+    border-bottom-width: 128px;
+    
 }
 
 .hero-image {
@@ -47,27 +51,6 @@ main::after {
 
 a {
     width: 150px;
-}
-
-@media (min-width: 1070px) {
-    main::after {
-        border-left: 1070px solid transparent;
-    }
-}
-
-@media (min-width: 1080px) {
-    main::after {
-        border-left: 1080px solid transparent;
-    }
-}
-
-@media (min-width: 1280px) {
-    main::after {
-        border-left-width: 100vw;
-        border-left-style: solid;
-        border-left-color: transparent;
-        border-bottom-width: 128px;
-    }
 }
 
 @media (min-width: 1950px) {
